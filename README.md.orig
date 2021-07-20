@@ -5,6 +5,8 @@ append
 main
 =======
 >>>>>>> testing
-hello
+<<<<<<< HEAD
 world
-
+=======
+hello
+>>>>>>> testing
