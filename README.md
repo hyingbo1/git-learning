@@ -8,3 +8,5 @@ main
 hello
 world
 
+git amend
+amend second time
